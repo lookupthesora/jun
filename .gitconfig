@@ -1,0 +1,5 @@
+[user]
+	email = jumpei.tada@necam.com
+	name = Jumpei Tada
+[core]
+	autocrlf = true
